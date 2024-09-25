@@ -1,6 +1,6 @@
 # Ex.No: 1 Write programs in Python Language to demonstrate the working of followingconstructs with possible test cases: a) do…while b) while…do c) if …else d) switch e) for 
 
-### DATE: 27/08/2024                                                                            
+### DATE:                                                                         
 ### REGISTER NUMBER : 212221040069
 
 ### AIM:  
@@ -88,18 +88,101 @@ iterate()
 ```
 ### Output:
 ### a)do…while
-"C:\Users\saivi\Pictures\1.1 do...while.png"
-"C:\Users\saivi\Pictures\1.2 do...while.png"
+
+Positive numbers
+Enter a positive value for START: 1
+Enter a positive value for END: 4
+1 2 3 4 
+
+Negative numbers
+Enter a positive value for START: -10
+Enter a positive value for END: 5 Enter
+a valid positive number. 
+
+Character and string input
+Enter a positive value for START: hello
+Enter a positive value for END: y
+Enter a valid positive number. 
+
+Null input
+Enter a positive value for START:
+Enter a positive value for END:
+Enter a valid positive number. 
+
 ### b)while…do
-"C:\Users\saivi\Pictures\2.1 while...do.png"
-"C:\Users\saivi\Pictures\2.2 while...do.png"
+
+Positive numbers
+Enter a positive value for START: 1
+Enter a positive value for END: 4
+1 2 3 4 
+
+Negative numbers
+Enter a positive value for START: -10
+Enter a positive value for END: 5 Enter
+a valid positive number. 
+
+Character and string input
+Enter a positive value for START: abc
+Enter a positive value for END: 100
+Enter a valid positive number. 
+
+Null input
+Enter a positive value for START:
+Enter a positive value for END:
+Enter a valid positive number. 
+
 ### c)if …else
-"C:\Users\saivi\Pictures\3.1 if...else.png"
-"C:\Users\saivi\Pictures\3.2 if...else.png"
+
+Positive numbers
+Enter a value for A: 1
+Enter a value for B: 1
+A is equal to B.
+
+Negative numbers
+Enter a value for A: -10
+Enter a value for B: 5 B
+is greater than A.
+
+Character and string input
+Enter a value for A: hello
+Enter a value for B: y
+Enter a valid number.
+
+Null input
+Enter a value for A:
+Enter a value for B:
+Enter a valid number. 
+
 ### d)switch
-"C:\Users\saivi\Pictures\4 switch.png"
+
+Positive numbers
+Enter a value for N: 1
+odd
+
+Negative numbers
+Enter a value for N: -10
+even
+
+Character and string input
+Enter a value for N: hello
+Enter a valid number.
+
+Null input
+Enter a value for N:
+Enter a valid number. 
+
 ### e)for
-"C:\Users\saivi\Pictures\5 for.png"
+
+Characters
+Enter a string: say
+115 97 121
+
+Number
+Enter a string: 1543
+49 53 52 51
+
+Null input
+Enter a string: 
 
 ### Result:
 Thus, the python program to demonstrate the working of given constructs is implemented and the output is verified successfully.
