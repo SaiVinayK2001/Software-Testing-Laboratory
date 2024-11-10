@@ -208,4 +208,4 @@ account type, withdrawal operation &amount to be withdraw
 
 
 ### Result:
-Thus, the ATM system specifications and reporting the various bugs is implemented and output was verified successfully
+Thus, the ATM system specifications and reporting the various bugs is implemented and output was verified successfully.
